@@ -1,6 +1,6 @@
 # Spike Detection Algorithm 
 
-The spike detection algorithm relies on three main inputs: 
+Developed VBA algorithm to pinpoint abnormal action potentials in electrophysiological recording. The spike detection algorithm relies on three main inputs: 
 
 1. Time series data
 2. Lag window (number of data points for the rolling average and standard deviation)
